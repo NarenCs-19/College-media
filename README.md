@@ -1,10 +1,4 @@
 # College media
-
-## DBMS Project
-
-## Chatting application
-
-### Iterators
-### Naren
-### THARUN
+A Simple Chatting application for College students to get interacted with their seniors and juniors..
+Can get college related updates.. 
 
